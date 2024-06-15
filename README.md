@@ -25,3 +25,7 @@ This project is a responsive landing page built using HTML, CSS, and JavaScript.
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug fixes, or enhancements, please feel free to submit a pull request or open an issue.
+
+
+## Contact
+For any inquiries or feedback, you can reach out to me at [ramishbinsiddique24@gmail.com]
